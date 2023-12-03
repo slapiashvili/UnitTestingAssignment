@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED111902-5A1D-4EA9-8109-30A8996C21E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D646440-0604-4934-8022-43E66BBC7025"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingAssignmentTests/UnitTestingAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CartViewModelTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0D646440-0604-4934-8022-43E66BBC7025 - ae772be5351a79b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingAssignmentTests.CartViewModelTests.testFetchProducts() -&gt; ()"
+                  moduleName = "UnitTestingAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/UnitTestingAssignment/UnitTestingAssignmentTests/UnitTestingAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "0D646440-0604-4934-8022-43E66BBC7025 - ae772be5351a79b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingAssignmentTests.CartViewModelTests.testFetchProducts() -&gt; ()"
+                  moduleName = "UnitTestingAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/UnitTestingAssignment/UnitTestingAssignmentTests/UnitTestingAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE0C792-4AC3-4EF9-AE1A-7AC0BD38069D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingAssignment/CartViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8CE0C792-4AC3-4EF9-AE1A-7AC0BD38069D - bace1fc4f07a9ef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for cart"
+                  moduleName = "UnitTestingAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/UnitTestingAssignment/UnitTestingAssignment/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8CE0C792-4AC3-4EF9-AE1A-7AC0BD38069D - d8c1d6d36d5c31ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingAssignment.cart.unsafeMutableAddressor : UnitTestingAssignment.CartViewModel"
+                  moduleName = "UnitTestingAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/UnitTestingAssignment/UnitTestingAssignment/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
